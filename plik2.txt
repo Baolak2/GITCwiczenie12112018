@@ -1,1 +1,1 @@
-zawartosc plik2 zmieniona w gałęzi feature
+druga zmiana galaz feature
