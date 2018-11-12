@@ -1,1 +1,1 @@
-symulacja zmian w repo 1 
+symulacja zmian w repo, gałąx nowyFeature
