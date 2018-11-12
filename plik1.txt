@@ -1,1 +1,1 @@
-rozwiazanie konfliktu drugiej zmiany
+symulacja zmian w repo 1 
